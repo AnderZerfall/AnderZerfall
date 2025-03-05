@@ -88,6 +88,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/anderzerfall/anderzerfall/output/snake.svg" alt="Snake animation" />
-
 ###
